@@ -3,13 +3,6 @@ Un dashboard web interactivo construido con Streamlit que visualiza el Producto 
 
 (Nota: Reemplaza el enlace de la insignia de arriba con la URL de tu aplicación una vez que la hayas desplegado).
 
-📸 Vista Previa
-¡Inserta aquí una captura de pantalla de tu dashboard! Es la mejor manera de mostrar tu trabajo.
-
-![Captura del Dashboard](screenshot.png)
-
-(Para que esto funcione, añade una imagen llamada screenshot.png a tu repositorio).
-
 📋 Descripción
 Este proyecto utiliza Streamlit, Pandas y Plotly para crear un dashboard dinámico que muestra:
 
@@ -88,4 +81,5 @@ streamlit run dashboard.py
 ¡Abre tu navegador en la dirección http://localhost:8501 para ver tu dashboard en acción!
 
 ☁️ Despliegue
+
 Esta aplicación está lista para ser desplegada en Streamlit Community Cloud de forma gratuita. Simplemente sube tu repositorio a GitHub (asegúrate de incluir el archivo requirements.txt) y conéctalo a Streamlit Cloud.
